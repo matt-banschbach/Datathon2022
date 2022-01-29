@@ -11,3 +11,12 @@
   - Pandas
   - Matplotlib
   - Jupyter Notebooks
+
+##### R
+R was used to initially explore and partition the data and test possible models
+
+##### Jupyter
+Jupyter was used to clean the data
+
+##### Python
+Base Python, along with Pandas and Matplotlib were used to construct the visual models
