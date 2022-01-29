@@ -8,7 +8,6 @@
 ### Technoligies Used
 - R/R Studio
 - Python
--   Pandas
--   Matplotlib
--   Jupyter Notebooks
-
+  - Pandas
+  - Matplotlib
+  - Jupyter Notebooks
